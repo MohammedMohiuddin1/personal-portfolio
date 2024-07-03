@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+nav a, .st-bx, .st-bo {
+    color: purple !important;
+}
+
+/* Optional: customize specific sections if they have specific class names */
+.section-about, .section-projects {
+    color: purple !important;
+}
